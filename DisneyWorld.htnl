@@ -1,11 +1,27 @@
 <html>
 <head>
 <title>Disney World</title>
+<style>
+body {
+background:url("http://wallpapercave.com/wp/61wPtic.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+p {
+    color:black;
+}
+</style>
 </head>
 <body>
-<h1>Animal Kingdom</h1>
-<img src="http://cdn.wdwmagic.com/imgstore/ElementGalleryItems/attractions/Fullsize/Rivers-of-Light_Full_26018.jpg;width=630;height=422;mode=crop;quality=60;encoder=freeimage;progressive=true"
+<h1>Disney World</h1>
+<h2>Animal Kingdom</h2>
+<a href="http://cdn.wdwmagic.com/imgstore/ElementGalleryItems/attractions/Fullsize/Rivers-of-Light_Full_26018.jpg;width=630;height=422;mode=crop;quality=60;encoder=freeimage;progressive=true"
 "http://www.ramascreen.com/wp-content/uploads/2015/08/Disney1-e1439684350287.jpg">
-Click here to see amazing sites at animal kingdom
+Click here to see amazing sites at Animal Kingdom</a>>
+<h3>Magic Kingdom</h3>
+<a href="https://i.ytimg.com/vi/zmZ2LZ-P830/maxresdefault.jpg"
+"http://24.media.tumblr.com/tumblr_m7u00dv4BD1qieaa0o1_500.png">
+Click here to take a quick glimpse of the Magic Kingdom in Disney World!</a>>
 </body>
 </html>
